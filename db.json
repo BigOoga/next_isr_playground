@@ -1,0 +1,22 @@
+{
+  "volumes": [
+    {
+      "id": "1",
+      "description": "Shop - acquista il volume - Volume 1: Matematica.nera",
+      "name": "Volume 1: Matematica.nera",
+      "content": "Questo volume tratta di matematica occulta"
+    },
+    {
+      "id": "2",
+      "description": "Shop - acquista il volume - Volume di test",
+      "name": "Volume di test",
+      "content": "contenuto del volume di test, prova prova"
+    },
+    {
+      "id": "3",
+      "description": "Shop - acquista il volume - Ganz Genau!",
+      "name": "Ganz Genau!",
+      "content": "Da togliere e rimettere per provare la generazione on demand"
+    }
+  ]
+}
